@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/static/css/main.35e77cc9.css",
+    "main.js": "/static/js/main.80a1b7cc.js",
+    "static/media/pixlr-image-generator-d7a2c484-3322-46ff-9dff-dd005feb8c3e.png": "/static/media/pixlr-image-generator-d7a2c484-3322-46ff-9dff-dd005feb8c3e.5f6d4ddef7d3fce574d3.png",
+    "static/media/pixlr-image-generator-bd3a8cd3-1731-43ed-9ea7-9cbd5d67eca2.png": "/static/media/pixlr-image-generator-bd3a8cd3-1731-43ed-9ea7-9cbd5d67eca2.b057635a602ed9182cd4.png",
+    "static/media/Untitled design (3).png": "/static/media/Untitled design (3).705eff706281c6d83e1b.png",
+    "static/media/Untitled design (4).png": "/static/media/Untitled design (4).144baeb806b33d44369e.png",
+    "static/media/Untitled design (6).png": "/static/media/Untitled design (6).7f113f14d36ea343c620.png",
+    "static/media/Untitled design.png": "/static/media/Untitled design.869d23d5ad890ca0e129.png",
+    "static/media/Untitled design (7).png": "/static/media/Untitled design (7).8434cfc20df4994c235f.png",
+    "index.html": "/index.html",
+    "main.35e77cc9.css.map": "/static/css/main.35e77cc9.css.map",
+    "main.80a1b7cc.js.map": "/static/js/main.80a1b7cc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.35e77cc9.css",
+    "static/js/main.80a1b7cc.js"
+  ]
+}
